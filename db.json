@@ -2,17 +2,17 @@
   "beers": [
     {
       "id": 1,
-      "name": "Buzz",
-      "tagline": "A Real Bitter Experience.",
-      "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "name": "BROKEN",
+      "tagline": "Japanese Citrus Berliner Weisse.",
+      "first_brewed": "11/2015",
+      "description": "Japanese citrus fruit intensifies the sour nature of this German classic.",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
-        "Spicy chicken tikka masala",
-        "Grilled chicken quesadilla",
-        "Caramel toffee cake"
+        "Smoked chicken wings",
+        "Miso ramen",
+        "Yuzu cheesecake"
       ],
-      "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
+      "brewers_tips": "Clean everything twice. All you want is the clean sourness of lactobacillus.",
       "contributed_by": "Sam Mason <samjbmason>"
     },
     {
